@@ -1,1 +1,13 @@
-
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(pytest:*)",
+      "Bash(PYTHONPATH=/Users/lavish/dev/assignment pytest -v)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}
