@@ -1,0 +1,8 @@
+[
+  "tests/test_api.py::test_get_launches",
+  "tests/test_tracker.py::test_launch_frequency",
+  "tests/test_tracker.py::test_launches_per_site",
+  "tests/test_tracker.py::test_success_rates_by_rocket",
+  "tests/test_utils.py::test_filter_launches",
+  "tests/test_utils.py::test_parse_date"
+]
