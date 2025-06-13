@@ -1,0 +1,5 @@
+requests>=2.25.0
+pytest>=6.0.0
+typing-extensions>=3.7.4
+rich>=13.0.0
+pandas>=1.1.0 # optional, for CSV export 

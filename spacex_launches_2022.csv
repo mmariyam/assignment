@@ -1,0 +1,63 @@
+Date,Name,Rocket,Site,Success
+2022-01-06,Starlink 4-5 (v1.5),Falcon 9,KSC LC 39A,True
+2022-01-13,Transporter-3,Falcon 9,CCSFS SLC 40,True
+2022-01-19,Starlink 4-6 (v1.5),Falcon 9,KSC LC 39A,True
+2022-01-31,CSG-2,Falcon 9,CCSFS SLC 40,True
+2022-02-02,NROL-87,Falcon 9,VAFB SLC 4E,True
+2022-02-03,Starlink 4-7 (v1.5),Falcon 9,KSC LC 39A,True
+2022-02-21,Starlink 4-8 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-02-25,Starlink 4-11 (v1.5),Falcon 9,VAFB SLC 4E,True
+2022-03-03,Starlink 4-9 (v1.5),Falcon 9,KSC LC 39A,True
+2022-03-09,Starlink 4-10 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-03-19,Starlink 4-12 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-04-01,Transporter-4,Falcon 9,CCSFS SLC 40,True
+2022-04-08,Ax-1,Falcon 9,KSC LC 39A,True
+2022-04-17,NROL-85,Falcon 9,VAFB SLC 4E,True
+2022-04-21,Starlink 4-14 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-04-27,Crew-4,Falcon 9,KSC LC 39A,True
+2022-04-29,Starlink 4-16 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-05-06,Starlink 4-17 (v1.5),Falcon 9,KSC LC 39A,True
+2022-05-13,Starlink 4-13 (v1.5),Falcon 9,VAFB SLC 4E,True
+2022-05-14,Starlink 4-15 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-05-18,Starlink 4-18 (v1.5),Falcon 9,KSC LC 39A,True
+2022-05-25,Transporter-5,Falcon 9,CCSFS SLC 40,True
+2022-06-08,Nilesat-301,Falcon 9,CCSFS SLC 40,True
+2022-06-01,Starlink 4-19 (v1.5),Falcon 9,KSC LC 39A,True
+2022-06-18,SARah 1,Falcon 9,VAFB SLC 4E,True
+2022-06-19,Globalstar FM15,Falcon 9,CCSFS SLC 40,True
+2022-06-29,SES-22,Falcon 9,CCSFS SLC 40,True
+2022-07-07,Starlink 4-21 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-07-11,Starlink 3-1 (v1.5),Falcon 9,VAFB SLC 4E,
+2022-07-15,CRS-25,Falcon 9,KSC LC 39A,True
+2022-07-17,Starlink 4-22 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-07-21,Starlink 3-2 (v1.5),Falcon 9,VAFB SLC 4E,True
+2022-07-24,Starlink 4-25 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-08-04,KPLO,Falcon 9,CCSFS SLC 40,True
+2022-08-09,Starlink 4-26 (v1.5),Falcon 9,KSC LC 39A,True
+2022-08-12,Starlink 3-3 (v1.5),Falcon 9,VAFB SLC 4E,True
+2022-08-19,Starlink 4-27 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-08-28,Starlink 4-23 (v1.5),Falcon 9,KSC LC 39A,True
+2022-08-31,Starlink 3-4 (v1.5),Falcon 9,VAFB SLC 4E,True
+2022-09-05,Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,Falcon 9,CCSFS SLC 40,True
+2022-09-11,Starlink 4-2 (v1.5) & Blue Walker 3,Falcon 9,KSC LC 39A,True
+2022-09-17,Starlink 4-34 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-09-24,Starlink 4-35 (v1.5),Falcon 9,CCSFS SLC 40,True
+2022-10-05,Crew-5,Falcon 9,KSC LC 39A,True
+2022-11-01,USSF-44,Falcon Heavy,KSC LC 39A,
+2022-10-20,Starlink 4-36 (v1.5),Falcon 9,CCSFS SLC 40,
+2022-10-08,Galaxy 33 (15R) & 34 (12R),Falcon 9,CCSFS SLC 40,
+2022-10-15,Hotbird 13F,Falcon 9,CCSFS SLC 40,
+2022-11-03,Hotbird 13G,Falcon 9,CCSFS SLC 40,
+2022-11-08,Galaxy 31 (23R) & 32 (17R),Falcon 9,CCSFS SLC 40,
+2022-11-15,Eutelsat 10B,Falcon 9,CCSFS SLC 40,
+2022-11-22,ispace Mission 1 & Rashid,Falcon 9,CCSFS SLC 40,
+2022-11-18,CRS-26,Falcon 9,KSC LC 39A,
+2022-11-01,Starlink 4-37 (v1.5),Falcon 9,CCSFS SLC 40,
+2022-11-01,"O3b mPower 1,2",Falcon 9,CCSFS SLC 40,
+2022-12-05,SWOT,Falcon 9,VAFB SLC 4E,
+2022-11-01,SES-18 & SES-19,Falcon 9,CCSFS SLC 40,
+2022-12-01,Transporter-6,Falcon 9,CCSFS SLC 40,
+2022-12-01,TTL-1,Falcon 9,VAFB SLC 4E,
+2022-12-01,WorldView Legion 1 & 2,Falcon 9,CCSFS SLC 40,
+2022-12-01,Viasat-3 & Arcturus,Falcon Heavy,KSC LC 39A,
+2022-12-01,O3b mPower 3.4,Falcon 9,CCSFS SLC 40,
